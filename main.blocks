@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="I3ONY,L-fW@Ugpo/6RCC" x="36" y="16" h="307" w="204">In a forever block, TOGGLE the following LEDs:&#10;&#10;(0, 3)&#10;(1, 4)&#10;(2, 3)&#10;(3, 2)&#10;(4, 1)</comment><block type="device_forever" id="g5_T.4%|ryiOe9B1!~^W" x="265" y="20"/></xml>
